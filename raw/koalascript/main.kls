@@ -1,0 +1,11 @@
+//Copyright (c) VirRB
+//Welcome to Koalascript v1.3!
+
+with "std";
+
+fn main<>
+{
+	std::out<"Now with arrays and for loops!\n">;
+}
+
+main<>;

@@ -1,0 +1,11 @@
+// Welcome to Koalascript v1.0
+// Copyright (c) VirRB
+with "std";
+
+fn main<>
+{
+    std::out<"Hello World\n">;
+    return void;
+}
+
+main<>;
